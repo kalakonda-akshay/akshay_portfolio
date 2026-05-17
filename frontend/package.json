@@ -1,0 +1,7 @@
+{
+    "scripts":  {
+                    "build":  "cd .. \u0026\u0026 npm run build",
+                    "dev":  "cd .. \u0026\u0026 npm run dev",
+                    "start":  "cd .. \u0026\u0026 npm start"
+                }
+}

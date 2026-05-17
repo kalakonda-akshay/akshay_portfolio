@@ -1,0 +1,10 @@
+backend/node_modules
+backend/server.js
+backend/config
+backend/controllers
+backend/middleware
+backend/routes
+backend/package.json
+backend/package-lock.json
+frontend
+models

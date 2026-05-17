@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#07111f"/>
+  <rect x="70" y="70" width="1060" height="660" rx="28" fill="#0d1728" stroke="#00e599" stroke-width="4"/>
+  <text x="600" y="190" text-anchor="middle" fill="#f4f6ff" font-family="Arial" font-size="54" font-weight="700">Thiranex</text>
+  <text x="600" y="270" text-anchor="middle" fill="#00e599" font-family="Arial" font-size="34">Internship Certificate</text>
+  <text x="600" y="385" text-anchor="middle" fill="#c0c8e0" font-family="Arial" font-size="42">Kalakonda Akshay</text>
+  <text x="600" y="455" text-anchor="middle" fill="#c0c8e0" font-family="Arial" font-size="28">Full-Stack Developer Intern</text>
+  <text x="600" y="535" text-anchor="middle" fill="#7a85a8" font-family="Arial" font-size="24">Web development and framework architecture</text>
+  <text x="600" y="610" text-anchor="middle" fill="#3d8bff" font-family="Arial" font-size="24">React · Node.js · Express · MongoDB</text>
+</svg>

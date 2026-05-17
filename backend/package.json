@@ -1,0 +1,19 @@
+{
+  "name": "akshay-portfolio-backend",
+  "version": "1.0.0",
+  "description": "Express and MongoDB backend for Akshay portfolio",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "seed": "node -e \"fetch('http://localhost:5000/api/projects/seed',{method:'POST'}).then(r=>r.json()).then(console.log)\""
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1",
+    "nodemailer": "^8.0.7"
+  }
+}
